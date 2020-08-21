@@ -5,7 +5,7 @@ Given its recent popularity, there are numerous events being organised for TED t
 
 A detailed analysis of the talks would be a lot helpful to the current speakers, potential speakers and to all the viewers interested in listening to some quality talks. 
 
-Our project aims at :
+The project aims at :
 - Providing detailed analysis on which TED Talks have larger number of views, which talks create maximum debate.
 - Insights on the trending topics by analysing which topic and which tags get the maximum views, comments and ratings.
 - Building a predictive model to analyse which video will get more views.
